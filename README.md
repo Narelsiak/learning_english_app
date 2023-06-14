@@ -1,6 +1,6 @@
 <h1>1. OPIS PROJEKTU</h1>
     <a title="Podgląd aplikacji" href="http://www.english-language-app.pl/">English Learning App </a>to aplikacja internetowa, stworzona przy użyciu frameworka Laravel, zaprojektowana, aby pomóc użytkownikom w doskonaleniu znajomości języka angielskiego. Projekt jest nieustannie rozwijany i planowo w niedalekiej przyszłości pojawić się mają nowe funkcjonalności - ranking tygodniowy, money management, system nowych gier, admin-page oraz połączenie ze sztuczną inteligencją.<br><br>
-    Projekt składa się z kilku części takich jak testy, powtórki, osiągnięcia, gry czasowe, quizy itp. Podczas pracy nad projektem zrozumiałem piękno i możliwości backendu i zdecydowałem, że warto się go trzymać.
+    Projekt składa się z kilku części takich jak testy, powtórki, osiągnięcia, gry czasowe, quizy itp.
 <br><br><br>
 
 <h1>2. JAK ZAINSTALOWAĆ PROJEKT</h1>
